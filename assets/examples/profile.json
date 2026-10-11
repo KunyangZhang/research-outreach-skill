@@ -1,0 +1,11 @@
+{
+  "name": "示例同学",
+  "school": "示例大学",
+  "major": "示例专业",
+  "year": "本科三年级",
+  "email": "student@example.invalid",
+  "background": "这是格式示例，请替换为真实经历。",
+  "availability": "请填写实际可投入的时间和持续时长",
+  "facts": [{"id": "p1", "text": "这是格式示例，不是申请人的实际经历", "origin": "example"}],
+  "attachments": []
+}

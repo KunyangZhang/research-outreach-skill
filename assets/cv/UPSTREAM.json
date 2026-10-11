@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/pmichaillat/latex-cv",
+  "commit": "b75426d777cf9f93c968619d0de1f1d1a4444e49",
+  "license": "MIT",
+  "vendored_files": ["cv.sty", "onepage.sty", "LICENSE.md"],
+  "modifications": "cv.sty adds an iftex branch using fontspec for XeLaTeX. resume.tex is a new plain-text content template, optionally using ctex/Fandol for Chinese."
+}

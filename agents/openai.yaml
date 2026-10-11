@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研套瓷"
+  short_description: "自动调研导师与论文，准备研究简历、个性化申请邮件并跟踪发送状态"
+  default_prompt: "使用 $research-outreach 调研适合我的导师，准备科研简历和进组申请邮件。"

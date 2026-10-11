@@ -1,0 +1,11 @@
+{
+  "name": "示例同学",
+  "email": "student@example.invalid",
+  "language": "zh",
+  "subtitle": "示例大学 · 示例专业 · 本科三年级",
+  "sections": [
+    {"title": "教育背景", "items": ["示例大学，示例专业；请替换为真实学校、专业及时间"]},
+    {"title": "科研与项目", "items": ["项目名称：请填写你实际负责的工作、方法与可核实结果"]},
+    {"title": "技能", "items": ["请填写能够实际使用并解释的技能"]}
+  ]
+}

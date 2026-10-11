@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.lock
+outreach-workspace/
+workspace/
+cache/
+outbox/
+state.json
+*.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz

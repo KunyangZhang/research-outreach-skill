@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {
+      "name": "academic-research-suite",
+      "required_for": ["research", "papers", "fact-check"],
+      "repository": "Imbad0202/academic-research-skills-codex",
+      "path": "skills/academic-research-suite",
+      "tested_ref": "v3.22.0",
+      "tested_version": "3.22.0",
+      "license": "CC-BY-NC-4.0",
+      "entrypoint": "SKILL.md",
+      "workflow": "ars/deep-research/WORKFLOW.md",
+      "modes": {
+        "papers": "three-way-scan",
+        "fact-check": "fact-check",
+        "research": "three-way-scan"
+      }
+    },
+    {
+      "name": "pdf",
+      "required_for": [],
+      "repository": "openai/skills",
+      "path": "skills/.curated/pdf",
+      "tested_ref": null,
+      "license": "See upstream LICENSE.txt",
+      "entrypoint": "SKILL.md",
+      "purpose": "可选：阅读论文 PDF 与检查简历版面，缺失时使用宿主 PDF 工具"
+    }
+  ]
+}
